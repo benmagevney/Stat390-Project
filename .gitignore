@@ -3,3 +3,6 @@
 /data/google_data
 .__pychache__
 __pycache__/
+/bens_models
+/data/xgboost_data
+/google_data
