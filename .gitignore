@@ -3,3 +3,5 @@
 /data/google_data
 .__pychache__
 __pycache__/
+/data/xgboost_data
+/google_data
