@@ -1,7 +1,4 @@
 date,region,new_confirmed
-2020-01-19,Pacific,1.0
-2020-01-20,Pacific,0.0
-2020-01-21,Pacific,1.0
 2020-01-22,East North Central,0.0
 2020-01-22,East South Central,0.0
 2020-01-22,Mid-Atlantic,0.0
@@ -8714,4 +8711,3 @@ date,region,new_confirmed
 2022-09-15,South Atlantic,7155.0
 2022-09-15,West North Central,7035.0
 2022-09-15,West South Central,5914.0
-2022-12-30,South Atlantic,-31136.0
