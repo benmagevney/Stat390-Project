@@ -1,0 +1,148 @@
+Training model for East North Central...
+Optimization terminated abnormally. Falling back to Newton.
+    changepoint_prior_scale  seasonality_prior_scale          mae  \
+7                     0.005                     0.25  3543.109292   
+17                    0.010                     5.00  4443.862375   
+14                    0.010                     0.50  4443.862375   
+13                    0.010                     0.25  4443.862375   
+12                    0.010                     0.10  4443.862375   
+
+           rmse      mase  
+7   4896.387390  0.408745  
+17  5451.397048  0.512659  
+14  5451.397048  0.512659  
+13  5451.397048  0.512659  
+12  5451.397048  0.512659  
+
+Training model for East South Central...
+Optimization terminated abnormally. Falling back to Newton.
+    changepoint_prior_scale  seasonality_prior_scale          mae  \
+17                    0.010                      5.0  1954.114032   
+20                    0.025                      0.5  1958.327688   
+29                    0.050                      5.0  1998.863429   
+33                    0.100                      1.0  2155.312994   
+30                    0.100                      0.1  2217.344414   
+
+           rmse      mase  
+17  2852.335047  0.538930  
+20  2807.289262  0.540092  
+29  2732.394328  0.551271  
+33  2930.965363  0.594419  
+30  2825.042516  0.611527  
+
+Training model for Mid-Atlantic...
+    changepoint_prior_scale  seasonality_prior_scale          mae  \
+25                     0.05                     0.25  3393.695445   
+29                     0.05                     5.00  3394.649794   
+24                     0.05                     0.10  3395.168502   
+28                     0.05                     2.00  3399.498668   
+27                     0.05                     1.00  3407.750795   
+
+           rmse      mase  
+25  4899.277820  1.486668  
+29  4898.488236  1.487086  
+24  4898.586725  1.487313  
+28  4901.216560  1.489210  
+27  4904.666833  1.492825  
+
+Training model for Mountain...
+    changepoint_prior_scale  seasonality_prior_scale          mae  \
+21                    0.025                     1.00  2864.422550   
+16                    0.010                     2.00  3031.449216   
+33                    0.100                     1.00  3274.387254   
+25                    0.050                     0.25  3298.630610   
+6                     0.005                     0.10  3403.513754   
+
+           rmse      mase  
+21  4427.259467  0.857055  
+16  4285.959022  0.907030  
+33  4558.388321  0.979719  
+25  5050.960716  0.986973  
+6   5061.114539  1.018355  
+
+Training model for New England...
+Optimization terminated abnormally. Falling back to Newton.
+Optimization terminated abnormally. Falling back to Newton.
+    changepoint_prior_scale  seasonality_prior_scale          mae  \
+31                    0.100                     0.25  1394.125365   
+34                    0.100                     2.00  1805.039018   
+11                    0.005                     5.00  1825.473685   
+9                     0.005                     1.00  1832.018935   
+7                     0.005                     0.25  1991.007785   
+
+           rmse      mase  
+31  2233.223691  0.515092  
+34  2547.279400  0.666914  
+11  2506.348264  0.674464  
+9   2544.398175  0.676882  
+7   2637.540057  0.735624  
+
+Training model for Pacific...
+
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+    changepoint_prior_scale  seasonality_prior_scale          mae  \
+31                      0.1                     0.25  7711.616510   
+35                      0.1                     5.00  7713.150269   
+32                      0.1                     0.50  7721.198212   
+34                      0.1                     2.00  7723.836018   
+33                      0.1                     1.00  7831.146031   
+
+            rmse      mase  
+31  11542.500073  1.074957  
+35  11545.456766  1.075171  
+32  11554.040563  1.076293  
+34  11555.619745  1.076660  
+33  11681.485404  1.091619  
+
+Training model for South Atlantic...
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+    changepoint_prior_scale  seasonality_prior_scale          mae  \
+1                     0.001                     0.25  6555.620428   
+2                     0.001                     0.50  6673.927231   
+9                     0.005                     1.00  6674.752378   
+13                    0.010                     0.25  6683.523198   
+22                    0.025                     2.00  6688.478159   
+
+           rmse      mase  
+1   9472.315197  0.565458  
+2   9559.720094  0.575662  
+9   9564.420695  0.575734  
+13  9575.604753  0.576490  
+22  9572.451412  0.576917  
+
+Training model for West North Central...
+Optimization terminated abnormally. Falling back to Newton.
+Optimization terminated abnormally. Falling back to Newton.
+Optimization terminated abnormally. Falling back to Newton.
+    changepoint_prior_scale  seasonality_prior_scale          mae  \
+8                     0.005                     0.50  2353.737219   
+9                     0.005                     1.00  2364.451220   
+7                     0.005                     0.25  2397.079547   
+27                    0.050                     1.00  3146.876810   
+16                    0.010                     2.00  3207.388810   
+
+           rmse      mase  
+8   3330.794261  0.685732  
+9   3338.686918  0.688854  
+7   3362.847096  0.698359  
+27  4104.617341  0.916804  
+16  4283.177814  0.934433  
+
+Training model for West South Central...
+Optimization terminated abnormally. Falling back to Newton.
+Optimization terminated abnormally. Falling back to Newton.
+    changepoint_prior_scale  seasonality_prior_scale          mae  \
+26                    0.050                     0.50  2240.237352   
+9                     0.005                     1.00  2344.044965   
+7                     0.005                     0.25  2360.089271   
+31                    0.100                     0.25  2898.547449   
+23                    0.025                     5.00  3873.550910   
+
+           rmse      mase  
+26  3366.866138  0.461248  
+9   3518.136775  0.482622  
+7   3531.518236  0.485925  
+31  3790.555916  0.596790  
+23  4678.322076  0.797536  
+
+--- 413.06 seconds ---

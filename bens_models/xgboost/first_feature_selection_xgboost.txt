@@ -1,0 +1,82 @@
+Training model for East North Central...
+MAE: 3983.72
+MSE: 34522933.71
+RMSE: 5875.62
+MASE: 0.47
+Number of features for 95.0% importance: 33, out of 62
+Important features: ['7_day_shift', '7_day_avg', 'dayofyear', 'new_deceased', 'cumulative_persons_vaccinated', '2_day_shift', 'average_temperature_celsius', 'cumulative_persons_fully_vaccinated_pfizer', '1_day_shift', 'cumulative_deceased', 'new_persons_fully_vaccinated_janssen', 'cumulative_persons_fully_vaccinated_moderna', 'cumulative_persons_fully_vaccinated_janssen', 'school_closing', 'international_travel_controls', 'income_support', 'new_hospitalized_patients', 'location_key_US_OH', 'relative_humidity', 'cumulative_vaccine_doses_administered_moderna', 'new_persons_fully_vaccinated_pfizer', 'new_vaccine_doses_administered', 'cumulative_confirmed', 'day', 'weekofyear', 'new_persons_vaccinated', 'cumulative_hospitalized_patients', 'minimum_temperature_celsius', 'current_hospitalized_patients', 'month', 'workplace_closing', 'stay_at_home_requirements', 'rainfall_mm']
+
+
+Training model for East South Central...
+MAE: 1433.76
+MSE: 6413205.39
+RMSE: 2532.43
+MASE: 0.4
+Number of features for 95.0% importance: 34, out of 62
+Important features: ['7_day_shift', '7_day_avg', '1_day_shift', 'new_deceased', '2_day_shift', 'cumulative_persons_fully_vaccinated', 'location_key_US_AL', 'facial_coverings', 'day', 'international_travel_controls', '3_day_shift', 'dayofyear', 'current_hospitalized_patients', 'new_vaccine_doses_administered_janssen', 'new_hospitalized_patients', 'minimum_temperature_celsius', 'new_vaccine_doses_administered_moderna', 'restrictions_on_gatherings', 'month', 'school_closing', 'current_intensive_care_patients', 'cumulative_vaccine_doses_administered_janssen', 'cumulative_hospitalized_patients', 'new_persons_fully_vaccinated', 'relative_humidity', 'average_temperature_celsius', 'new_vaccine_doses_administered_pfizer', 'new_persons_vaccinated', 'stringency_index', 'new_vaccine_doses_administered', 'cumulative_deceased', 'new_persons_fully_vaccinated_pfizer', 'weekofyear', 'income_support']
+
+
+Training model for Mid-Atlantic...
+MAE: 2657.11
+MSE: 17980034.39
+RMSE: 4240.29
+MASE: 1.2
+Number of features for 95.0% importance: 25, out of 61
+Important features: ['7_day_avg', 'cumulative_persons_vaccinated', 'cumulative_deceased', '1_day_shift', 'new_persons_fully_vaccinated_janssen', 'month', 'location_key_US_PA', 'new_deceased', 'minimum_temperature_celsius', 'stringency_index', 'year', 'current_hospitalized_patients', 'rainfall_mm', 'dew_point', 'cumulative_persons_fully_vaccinated_pfizer', 'new_persons_vaccinated', 'day', 'cancel_public_events', 'weekofyear', 'school_closing', 'workplace_closing', 'new_hospitalized_patients', 'current_intensive_care_patients', '9_day_shift', '8_day_shift']
+
+
+Training model for Mountain...
+MAE: 2447.26
+MSE: 18073102.38
+RMSE: 4251.25
+MASE: 0.74
+Number of features for 95.0% importance: 38, out of 65
+Important features: ['7_day_avg', '7_day_shift', 'cumulative_vaccine_doses_administered_pfizer', '6_day_shift', '1_day_shift', 'current_hospitalized_patients', 'month', 'new_deceased', 'average_temperature_celsius', 'dayofyear', 'location_key_US_ID', 'cumulative_persons_vaccinated', 'location_key_US_CO', 'weekofyear', 'public_transport_closing', 'minimum_temperature_celsius', 'new_persons_vaccinated', 'stay_at_home_requirements', 'day', 'location_key_US_NV', 'relative_humidity', 'dew_point', 'current_intensive_care_patients', 'cumulative_deceased', 'new_vaccine_doses_administered_pfizer', 'new_vaccine_doses_administered_janssen', 'debt_relief', 'contact_tracing', 'new_hospitalized_patients', 'stringency_index', 'workplace_closing', 'cumulative_vaccine_doses_administered_moderna', 'new_persons_fully_vaccinated_pfizer', 'cumulative_confirmed', 'cumulative_persons_fully_vaccinated_pfizer', 'cumulative_persons_fully_vaccinated_janssen', 'cumulative_persons_fully_vaccinated_moderna', 'maximum_temperature_celsius']
+
+
+Training model for New England...
+MAE: 1542.59
+MSE: 5351660.32
+RMSE: 2313.37
+MASE: 0.61
+Number of features for 95.0% importance: 17, out of 62
+Important features: ['7_day_shift', 'minimum_temperature_celsius', '7_day_avg', '1_day_shift', 'rainfall_mm', 'relative_humidity', 'new_deceased', 'cumulative_confirmed', 'public_transport_closing', 'new_persons_fully_vaccinated_pfizer', 'new_hospitalized_patients', 'dayofyear', 'maximum_temperature_celsius', 'new_vaccine_doses_administered_moderna', 'day', 'cumulative_deceased', 'cancel_public_events']
+
+
+Training model for Pacific...
+MAE: 9257.86
+MSE: 162978525.83
+RMSE: 12766.3
+MASE: 1.38
+Number of features for 95.0% importance: 18, out of 63
+Important features: ['7_day_avg', 'cumulative_persons_vaccinated', 'current_intensive_care_patients', 'dew_point', '7_day_shift', 'cumulative_vaccine_doses_administered_moderna', '3_day_shift', 'new_deceased', 'cumulative_deceased', 'new_persons_fully_vaccinated', '10_day_shift', '1_day_shift', 'new_vaccine_doses_administered', 'new_persons_fully_vaccinated_pfizer', 'cumulative_persons_fully_vaccinated_janssen', 'cumulative_confirmed', 'current_hospitalized_patients', 'maximum_temperature_celsius']
+
+
+Training model for South Atlantic...
+MAE: 5422.11
+MSE: 79384101.61
+RMSE: 8909.78
+MASE: 0.5
+Number of features for 95.0% importance: 33, out of 66
+Important features: ['7_day_avg', 'new_vaccine_doses_administered_pfizer', '7_day_shift', 'new_vaccine_doses_administered', 'new_deceased', '1_day_shift', 'new_vaccine_doses_administered_janssen', 'dew_point', 'cumulative_deceased', 'maximum_temperature_celsius', 'dayofyear', 'cumulative_vaccine_doses_administered', 'relative_humidity', 'current_intensive_care_patients', 'new_persons_vaccinated', 'location_key_US_MD', 'new_persons_fully_vaccinated_pfizer', 'new_vaccine_doses_administered_moderna', 'new_persons_fully_vaccinated_moderna', '6_day_shift', 'rainfall_mm', 'new_hospitalized_patients', 'average_temperature_celsius', 'public_transport_closing', 'cumulative_vaccine_doses_administered_moderna', 'day', 'new_persons_fully_vaccinated', 'cumulative_confirmed', 'current_hospitalized_patients', 'weekofyear', 'cumulative_persons_fully_vaccinated_moderna', 'minimum_temperature_celsius', 'stringency_index']
+
+
+Training model for West North Central...
+MAE: 1280.51
+MSE: 3943509.9
+RMSE: 1985.83
+MASE: 0.38
+Number of features for 95.0% importance: 36, out of 64
+Important features: ['7_day_shift', 'relative_humidity', 'new_persons_fully_vaccinated_janssen', 'new_vaccine_doses_administered_pfizer', 'dayofyear', 'new_persons_fully_vaccinated_pfizer', 'new_persons_fully_vaccinated', '7_day_avg', 'new_persons_vaccinated', 'average_temperature_celsius', 'cancel_public_events', 'cumulative_hospitalized_patients', 'cumulative_persons_fully_vaccinated_moderna', 'new_vaccine_doses_administered', 'cumulative_confirmed', 'rainfall_mm', 'location_key_US_KS', 'new_deceased', 'new_hospitalized_patients', 'cumulative_persons_fully_vaccinated_janssen', 'current_intensive_care_patients', 'cumulative_persons_fully_vaccinated', 'day', 'location_key_US_IA', 'income_support', 'facial_coverings', '1_day_shift', 'new_persons_fully_vaccinated_moderna', 'minimum_temperature_celsius', 'international_travel_controls', 'school_closing', 'weekofyear', '6_day_shift', 'current_hospitalized_patients', 'cumulative_deceased', 'cumulative_persons_vaccinated']
+
+
+Training model for West South Central...
+MAE: 2969.69
+MSE: 14485026.52
+RMSE: 3805.92
+MASE: 0.62
+Number of features for 95.0% importance: 26, out of 60
+Important features: ['7_day_avg', 'dayofyear', '7_day_shift', 'current_hospitalized_patients', 'cumulative_hospitalized_patients', 'cumulative_persons_fully_vaccinated_pfizer', 'day', 'cumulative_vaccine_doses_administered', 'new_vaccine_doses_administered', 'current_intensive_care_patients', 'maximum_temperature_celsius', 'new_hospitalized_patients', 'workplace_closing', 'stringency_index', 'average_temperature_celsius', '1_day_shift', 'new_deceased', 'new_vaccine_doses_administered_moderna', 'rainfall_mm', 'cumulative_persons_vaccinated', 'cumulative_deceased', 'cumulative_confirmed', 'new_persons_fully_vaccinated', 'cumulative_persons_fully_vaccinated', 'dew_point', 'new_vaccine_doses_administered_pfizer']
+
+
+--- 8.9 seconds ---
