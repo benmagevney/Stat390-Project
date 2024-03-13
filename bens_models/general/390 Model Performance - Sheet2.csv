@@ -1,0 +1,64 @@
+model type,region,baseline mase,MASE,RMSE,MAE
+arima,East North Central,0.98,0.95,9437,8152
+arima,East South Central,1.32,1.33,6330,4566
+arima,Mid-Atlantic,2.03,2.14,6095.2,5310
+arima,Mountain,2.04,2.03,7858,6802
+arima,New England,0.88,1.06,3449,2924
+arima,Pacific,1.62,1.51,15111,11949
+arima,South Atlantic,1.42,1.29,19492,14437
+arima,West North Central,1.12,1.07,4169,3502
+arima,West South Central,1.86,1.7,9589,7628.5
+univariate prophet,East North Central,0.93,0.90,"9,704","7,724"
+univariate prophet,East South Central,1.69,1.97,"8,155","6,752"
+univariate prophet,Mid-Atlantic,2.38,3.21,"9,727","7,984"
+univariate prophet,Mountain,2.11,1.93,"8,077","6,447"
+univariate prophet,New England,1.16,1.07,"3,751","2,946"
+univariate prophet,Pacific,2.38,2.56,"22,273","20,238"
+univariate prophet,South Atlantic,1.81,2.20,"27,581","24,631"
+univariate prophet,West North Central,1.18,1.38,"5,280","4,534"
+univariate prophet,West South Central,1.75,1.83,"10,396","8,214"
+xgboost,East North Central,0.63,0.61,3574,1448
+xgboost,East South Central,0.48,0.54,1445,812
+xgboost,Mid-Atlantic,0.80,0.77,3135,2111
+xgboost,Mountain,0.57,0.55,1738,601
+xgboost,New England,0.29,0.30,960,293
+xgboost,Pacific,0.72,0.67,7397,3328
+xgboost,South Atlantic,0.49,0.50,3568,1462
+xgboost,West North Central,0.45,0.43,1150,484
+xgboost,West South Central,0.36,0.26,2155,1108
+sarima ,East North Central,0.76,0.98,11011,8391
+sarima ,East South Central,1.07,4.7,19337,16105
+sarima ,Mid-Atlantic,2.48,2.93,8446,7288
+sarima ,Mountain,1.64,6.09,23573,20378
+sarima ,New England,0.82,0.94,4261,2598
+sarima ,Pacific,2.11,4.26,40138,33650
+sarima ,South Atlantic,0.7,1.14,16779,12740
+sarima ,West North Central,0.82,1.49,6662,4882
+sarima ,West South Central,1.34,1.73,10136,7756
+auto-arima,East North Central,,1.16,"11,965","9,442"
+auto-arima,East South Central,,1.36,"6,224","4,447"
+auto-arima,Mid-Atlantic,,2.19,"6,395","5,189"
+auto-arima,Mountain,,2.83,"9,954","9,048"
+auto-arima,New England,,0.89,"3,226","2,337"
+auto-arima,Pacific,,1.99,"17,108","14,801"
+auto-arima,South Atlantic,,1.6,"21,222","17,056"
+auto-arima,West North Central,,1.08,"3,766","3,373"
+auto-arima,West South Central,,1.64,"9,095","7,031"
+multivariate prophet,East North Central,0.58,0.57,6164,4832
+multivariate prophet,East South Central,0.82,0.8,4054,2768
+multivariate prophet,Mid-Atlantic,4.41,2.57,7870,5764
+multivariate prophet,Mountain,1.8,1.4,6539,4672
+multivariate prophet,New England,1.82,0.97,3453,2591
+multivariate prophet,Pacific,1.47,1.39,140049,9954
+multivariate prophet,South Atlantic,0.94,0.83,11601,9194
+multivariate prophet,West North Central,0.89,0.52,2109,1726
+multivariate prophet,West South Central,0.87,0.82,5260,3820
+lstm,East North Central,1.20,0.90,9200,7621
+lstm,East South Central,0.97,0.96,4614,3359
+lstm,Mid-Atlantic,3.24,2.78,8275,6289
+lstm,Mountain,1.21,1.40,6737,4714
+lstm,New England,1.22,1.64,5260,4404
+lstm,Pacific,2.65,1.91,18374,13894
+lstm,South Atlantic,1.82,1.87,23963,20789
+lstm,West North Central,2.73,1.13,4479,3826
+lstm,West South Central,2.22,0.88,5611,4132
