@@ -1,28 +1,26 @@
-
---- 30.49 seconds ---
 Correlation for East North Central...
-13 ['7_day_shift', '7_day_avg', 'new_hospitalized_patients', 'current_hospitalized_patients', '2_day_shift', '1_day_shift', 'new_deceased', 'current_intensive_care_patients', 'maximum_temperature_celsius', 'average_temperature_celsius', 'minimum_temperature_celsius', 'dew_point', 'income_support']
+14 ['7_day_shift', '7_day_avg', 'new_hospitalized_patients', 'current_hospitalized_patients', '2_day_shift', '1_day_shift', 'new_deceased', 'current_intensive_care_patients', 'maximum_temperature_celsius', 'average_temperature_celsius', 'minimum_temperature_celsius', 'dew_point', 'income_support', 'international_travel_controls']
 
 Correlation for East South Central...
-12 ['7_day_avg', '7_day_shift', 'current_hospitalized_patients', '3_day_shift', '1_day_shift', 'new_hospitalized_patients', '2_day_shift', 'current_intensive_care_patients', 'new_deceased', 'maximum_temperature_celsius', 'average_temperature_celsius', 'testing_policy']
+12 ['7_day_avg', '7_day_shift', 'current_hospitalized_patients', '3_day_shift', '1_day_shift', 'new_hospitalized_patients', '2_day_shift', 'current_intensive_care_patients', 'new_deceased', 'testing_policy', 'maximum_temperature_celsius', 'average_temperature_celsius']
 
 Correlation for Mid-Atlantic...
-13 ['7_day_avg', '1_day_shift', '2_day_shift', '8_day_shift', '9_day_shift', 'current_hospitalized_patients', 'new_hospitalized_patients', 'maximum_temperature_celsius', 'average_temperature_celsius', 'current_intensive_care_patients', 'minimum_temperature_celsius', 'dew_point', 'international_travel_controls']
+13 ['1_day_shift', '7_day_avg', '2_day_shift', '8_day_shift', '9_day_shift', 'current_hospitalized_patients', 'new_hospitalized_patients', 'maximum_temperature_celsius', 'average_temperature_celsius', 'current_intensive_care_patients', 'minimum_temperature_celsius', 'international_travel_controls', 'dew_point']
 
 Correlation for Mountain...
-13 ['7_day_avg', '7_day_shift', 'new_hospitalized_patients', '6_day_shift', '1_day_shift', 'current_hospitalized_patients', 'current_intensive_care_patients', 'new_deceased', 'maximum_temperature_celsius', 'average_temperature_celsius', 'minimum_temperature_celsius', 'relative_humidity', 'income_support']
+14 ['7_day_avg', '7_day_shift', 'new_hospitalized_patients', '6_day_shift', '1_day_shift', 'current_hospitalized_patients', 'current_intensive_care_patients', 'new_deceased', 'maximum_temperature_celsius', 'average_temperature_celsius', 'minimum_temperature_celsius', 'income_support', 'relative_humidity', 'international_travel_controls']
 
 Correlation for New England...
-11 ['7_day_shift', '7_day_avg', '1_day_shift', 'current_hospitalized_patients', 'minimum_temperature_celsius', 'average_temperature_celsius', 'maximum_temperature_celsius', 'dew_point', 'international_travel_controls', 'new_hospitalized_patients', 'current_intensive_care_patients']
+11 ['7_day_shift', '7_day_avg', '1_day_shift', 'current_hospitalized_patients', 'average_temperature_celsius', 'minimum_temperature_celsius', 'maximum_temperature_celsius', 'international_travel_controls', 'dew_point', 'current_intensive_care_patients', 'new_hospitalized_patients']
 
 Correlation for Pacific...
-10 ['7_day_shift', '7_day_avg', '3_day_shift', '1_day_shift', 'new_hospitalized_patients', '10_day_shift', 'current_hospitalized_patients', 'current_intensive_care_patients', 'relative_humidity', 'international_travel_controls']
+11 ['7_day_shift', '7_day_avg', '3_day_shift', '1_day_shift', 'new_hospitalized_patients', '10_day_shift', 'current_hospitalized_patients', 'current_intensive_care_patients', 'relative_humidity', 'average_temperature_celsius', 'international_travel_controls']
 
 Correlation for South Atlantic...
-8 ['7_day_avg', '7_day_shift', 'new_hospitalized_patients', '6_day_shift', 'current_hospitalized_patients', '1_day_shift', 'current_intensive_care_patients', 'new_deceased']
+9 ['7_day_avg', '7_day_shift', 'new_hospitalized_patients', '6_day_shift', 'current_hospitalized_patients', '1_day_shift', 'current_intensive_care_patients', 'new_deceased', 'maximum_temperature_celsius']
 
 Correlation for West North Central...
-11 ['7_day_shift', '7_day_avg', 'new_hospitalized_patients', '1_day_shift', 'current_hospitalized_patients', '6_day_shift', 'current_intensive_care_patients', 'new_deceased', 'minimum_temperature_celsius', 'average_temperature_celsius', 'dew_point']
+13 ['7_day_shift', '7_day_avg', 'new_hospitalized_patients', '1_day_shift', 'current_hospitalized_patients', '6_day_shift', 'current_intensive_care_patients', 'new_deceased', 'minimum_temperature_celsius', 'international_travel_controls', 'average_temperature_celsius', 'dew_point', 'income_support']
 
 Correlation for West South Central...
-10 ['7_day_avg', '7_day_shift', '1_day_shift', 'new_hospitalized_patients', 'current_hospitalized_patients', 'current_intensive_care_patients', 'dew_point', 'new_deceased', 'average_temperature_celsius', 'maximum_temperature_celsius']
+10 ['7_day_avg', '7_day_shift', '1_day_shift', 'new_hospitalized_patients', 'current_hospitalized_patients', 'current_intensive_care_patients', 'dew_point', 'average_temperature_celsius', 'new_deceased', 'maximum_temperature_celsius']
