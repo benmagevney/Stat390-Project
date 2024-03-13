@@ -8,6 +8,16 @@ Each group member will work on their own branches for exploratory analysis and t
 
 ## Data Preparation and EDA
 Data preparation and final datasets can be found in its own folder, data. Exploratory data analysis, developed in collaboration with all members, can also be found in its own folder, eda.
+The EDA folder consists of:
+* bivariate analysis
+* correlation analysis
+* multivariate analysis
+* prophet feature selection
+* seasonal decomposition
+* stationarity analysis
+* univariate feature analysis
+* xgboost feature selection
+
 
 ## Models
 Each team member has a separate folder whcih contains their models (building, parameter tuning, plotting, etc.).These folders contain some, but not necessarily all, of the following models:
